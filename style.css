@@ -63,6 +63,7 @@ body {
 @media screen and (max-width: 800px) {
     .row{
         width: 100%;
+        margin: 20px;
     }
 }
 @media screen and (max-width: 500px) {
