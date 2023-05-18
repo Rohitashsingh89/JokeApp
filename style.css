@@ -58,3 +58,18 @@ body {
     text-align: center;
     padding: 20px;
 }
+
+
+@media screen and (max-width: 800px) {
+    .row{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 500px) {
+    .box{
+        width: 90%;
+    }
+    .btn {
+        width: 90%;
+    }
+}
